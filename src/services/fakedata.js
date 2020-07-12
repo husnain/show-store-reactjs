@@ -1,0 +1,51 @@
+export const dummyProducts =  [
+  {
+    id:1,
+    name: "VALOUR BLUE",
+    price: 110,
+    imgUrl: "https://secure-images.nike.com/is/image/DotCom/CT8532_104_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+    slug:"valour-blue",
+  },
+  {
+    id:2,
+    name: "JORDAN MARS 270 LONDON",
+    price: 91,
+    imgUrl: "https://secure-images.nike.com/is/image/DotCom/CV3042_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+    slug:"jordan-mars-270-london",
+  },
+  {
+    id:3,
+    name: "RACER BLUE",
+    price: 94.5,
+    imgUrl: "https://secure-images.nike.com/is/image/DotCom/CK6637_104_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+    slug:"racer-blue",
+  },
+  {
+    id:4,
+    name: "JORDAN MARS 270 LONDON 1",
+    price: 91,
+    imgUrl: "https://secure-images.nike.com/is/image/DotCom/CV3042_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+    slug:"jordan-mars-270-london-1",
+  },
+  {
+    id:5,
+    name: "VALOUR BLUE 1",
+    price: 110,
+    imgUrl: "https://secure-images.nike.com/is/image/DotCom/CT8532_104_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+    slug:"valour-blue-1",
+  },
+  {
+    id:6,
+    name: "JORDAN MARS 270 LONDON 2",
+    price: 91,
+    imgUrl: "https://secure-images.nike.com/is/image/DotCom/CV3042_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+    slug:"jordan-mars-270-london-2",
+  },
+  {
+    id:7,
+    name: "VALOUR BLUE 2",
+    price: 110,
+    imgUrl: "https://secure-images.nike.com/is/image/DotCom/CT8532_104_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+    slug:"valour-blue-2",
+  },
+];
