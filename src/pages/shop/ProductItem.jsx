@@ -23,12 +23,12 @@ const useStyles = makeStyles({
 const ProductItem = ({product}) => {
 
   const classes = useStyles();
-  const { addProduct, increment, shopCartItems } = useContext(ShoppingCartContext)
+  const { addProduct } = useContext(ShoppingCartContext)
 
-  const itemInCart = product => {
+  // const itemInCart = product => {
 
-    return shopCartItems.find(item => item.id === product.id)
-  }
+  //   return shopCartItems.find(item => item.id === product.id)
+  // }
 
 
 
