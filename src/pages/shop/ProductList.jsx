@@ -9,7 +9,7 @@ const ProductList = () => {
   const { products } = useContext(ProductsContext)
 
   return (
-        <div className={styles.p__grid}>
+        <div className={styles.p__container}>
 
           <div className={styles.p__grid}>
 
